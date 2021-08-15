@@ -4,6 +4,7 @@
                                               Invalid argument supplied for foreach()
 											  
 Link Video: https://youtu.be/jYP-Rj1K1wU
+
 It often happens to me to handle data that can be either an array or a null variable and to feed some foreach with these data.
 
 When you feed a foreach with data that are not an array, you get a warning:
