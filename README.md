@@ -13,8 +13,8 @@ Personally I find this to be the most clean - not sure if it's the most efficien
 
 if (is_array($datas) || is_object($data))
         {
-		
-		}
+		//---
+	}
 		
 
 or
@@ -27,7 +27,7 @@ foreach ((array) $items as $item) {
 
 if (is_iterable($values))
 {
-    
+    //.......
 } 
 
 
